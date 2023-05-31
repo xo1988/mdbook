@@ -1,0 +1,6 @@
+[book]
+authors = ["xxx"]
+language = "en"
+multilingual = false
+src = "src"
+title = "multibooks"
